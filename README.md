@@ -13,9 +13,10 @@ This project utilizes **TensorFlow/Keras** to build and train a CNN regression m
 * **Data Processing:** Automated label extraction from the IMDB-WIKI dataset filenames.
 
 ⚙️ Installation
+
 Clone the repository:
 
-git clone [https://github.com/AlperenKuzucu/face-age-estimation.git](https://github.com/AlperenKuzucu/face-age-estimation.git)
+git clone https://github.com/AlperenKuzucu/face-age-estimation.git
 cd face-age-estimation
 
 
