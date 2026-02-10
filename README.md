@@ -15,7 +15,7 @@ This project utilizes **TensorFlow/Keras** to build and train a CNN regression m
 ⚙️ Installation
 Clone the repository:
 
-git clone [https://github.com/YOUR_USERNAME/face-age-estimation.git](https://github.com/YOUR_USERNAME/face-age-estimation.git)
+git clone [https://github.com/YOUR_USERNAME/face-age-estimation.git](https://github.com/AlperenKuzucu/face-age-estimation.git)
 cd face-age-estimation
 
 
